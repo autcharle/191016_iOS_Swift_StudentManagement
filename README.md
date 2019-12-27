@@ -7,4 +7,4 @@ However, I do sincerely want to share with you.
 
 ~ Good luck have fun!
 
-Built in Xcode 11, macOS 10.15 Catalina
+Built on Xcode 11, macOS Catalina 10.15
