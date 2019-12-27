@@ -1,4 +1,4 @@
-Hello again, I'm Author Charle ^_^
+Hello again, I'm Author Charle ^-^
 
 This is my first work on MacOS (my AMD OS X Vanilla).
 
